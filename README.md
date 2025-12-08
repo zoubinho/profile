@@ -22,7 +22,7 @@ My focus: bridging financial domain expertise with modern AI capabilities to cre
 **Impact:** 75% time reduction, 250+ meetings processed, 100% automated CRM data capture  
 **Tech:** Python • LangChain • PostgreSQL+pgvector • Gemini Pro • Claude • n8n  
 
-📄 [Full Case Study](#) | 🎥 [Demo Video](#) | 🔗 [Live Demo (upon request)](#)
+📄 [Full Case Study](#) | 🔗 [Live Demo (upon request)](#)
 
 ---
 
@@ -32,7 +32,7 @@ My focus: bridging financial domain expertise with modern AI capabilities to cre
 **Impact:** 60-70% time savings, 12-24 hour information lead time on material portfolio events, scalable to 100+ positions  
 **Tech:** Python • GPT-4 • Claude • PostgreSQL • n8n • Jupyter • Docker • Webhooks  
 
-📄 [Full Case Study](#) | 🎥 [Demo Video](#) | 🔗 [Live Demo (upon request)](#)
+📄 [Full Case Study](#) | 🔗 [Live Demo (upon request)](#)
 
 ---
 
@@ -42,7 +42,7 @@ My focus: bridging financial domain expertise with modern AI capabilities to cre
 **Impact:** 20% quality improvement over 3 months, 40% reduction in wasted iterations  
 **Tech:** Python • Gemini 2.0 • PostgreSQL • Metabase • n8n • Docker  
 
-📄 [Full Case Study](#) | 🎥 [Demo Video](#) | 🔗 [Live Demo (upon request)](#)
+📄 [Full Case Study](#) | 🔗 [Live Demo (upon request)](#)
 
 ---
 
@@ -51,8 +51,8 @@ My focus: bridging financial domain expertise with modern AI capabilities to cre
 **Current:** Building AI systems for financial workflows (personal projects + consulting)  
 **Previously:**  
 - Reuters: Market data infrastructure, real-time systems  
-- Bloomberg: Terminal features, data pipeline engineering  
-- swissQuant: Quantitative analytics platforms  
+- Bloomberg: Terminal features, quatitative modelling, data pipeline engineering  
+- swissQuant: Portfolio analytics & Optimization platforms  
 
 **Domain Expertise:** Market data • Portfolio management workflows • Investment research • Risk analysis • Trading systems
 
@@ -67,7 +67,7 @@ OpenAI GPT-4 • Anthropic Claude • Google Gemini • LangChain • RAG System
 PostgreSQL • Vector Databases (pgvector) • SQL • Data Modeling • ETL Pipelines
 
 **Orchestration & Automation:**  
-n8n • Zapier • Webhook APIs • Event-Driven Architecture • Scheduled Workflows
+n8n • Webhook APIs • Event-Driven Architecture • Scheduled Workflows
 
 **Development & Deployment:**  
 Python • Docker • Git • Self-Hosted Infrastructure • API Integration • CI/CD
@@ -99,7 +99,7 @@ Self-hosted where it makes sense, leveraging open-source tools. My Portfolio Int
 ## 🎓 Current Learning Focus
 
 - Advanced RAG architectures (hybrid search, reranking, query decomposition)
-- Agentic workflows with LangGraph and Claude Computer Use
+- Agentic workflows with n8n and Claude/Gemini (prompt chaining, orchestration-worker, agents)
 - Production ML observability and evaluation frameworks
 - Financial time series analysis with transformer models
 
@@ -113,18 +113,12 @@ Self-hosted where it makes sense, leveraging open-source tools. My Portfolio Int
 - Fintech (AI-powered research tools, data platforms)
 
 **Ideal roles:**  
-AI/ML Engineer • Quantitative Developer • Data Infrastructure Engineer • Applied AI Researcher
+AI/ML Solutions Engineer • Quantitative Strategist • Data Infrastructure Engineer 
 
 ---
 
 **🔗 Links:**  
-[LinkedIn](https://linkedin.com/in/alexandrealesi) • [Portfolio PDF](#) • [Email](mailto:alexandre.alesi@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoubinho&show_icons=true&theme=radical)
+[LinkedIn](https://linkedin.com/in/alexandrealesi) • [Portfolio PDF](https://github.com/zoubinho/profile/blob/main/AI-Financial%20Apps%20Portfolio%20-%20Alexandre%20Alesi.pdf)
 
 ---
 
