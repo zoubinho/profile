@@ -22,7 +22,11 @@ My focus: bridging financial domain expertise with modern AI capabilities to cre
 **Impact:** 75% time reduction, 250+ meetings processed, 100% automated CRM data capture  
 **Tech:** Python • LangChain • PostgreSQL+pgvector • Gemini Pro • Claude • n8n  
 
-📄 [Full Case Study](#) | 🔗 [Live Demo (upon request)](#)
+<p align="center">
+  <img src="img/meeting-transcripts-lm.png" width="50%">
+</p>
+
+📄 [Full Case Study](https://github.com/zoubinho/profile/blob/ceb3b137e5fc048d7e81bcb01013f8918ba1da07/AI-Financial%20Apps%20Portfolio%20-%20Alexandre%20Alesi.pdf) | 🔗 [Live Demo (upon request)](#)
 
 ---
 
@@ -32,7 +36,11 @@ My focus: bridging financial domain expertise with modern AI capabilities to cre
 **Impact:** 60-70% time savings, 12-24 hour information lead time on material portfolio events, scalable to 100+ positions  
 **Tech:** Python • GPT-4 • Claude • PostgreSQL • n8n • Jupyter • Docker • Webhooks  
 
-📄 [Full Case Study](#) | 🔗 [Live Demo (upon request)](#)
+<p align="center">
+  <img src="img/automated-portfolio-intelligence.png" width="50%">
+</p>
+
+📄 [Full Case Study](https://github.com/zoubinho/profile/blob/ceb3b137e5fc048d7e81bcb01013f8918ba1da07/AI-Financial%20Apps%20Portfolio%20-%20Alexandre%20Alesi.pdf) | 🔗 [Live Demo (upon request)](#)
 
 ---
 
@@ -42,7 +50,11 @@ My focus: bridging financial domain expertise with modern AI capabilities to cre
 **Impact:** 20% quality improvement over 3 months, 40% reduction in wasted iterations  
 **Tech:** Python • Gemini 2.0 • PostgreSQL • Metabase • n8n • Docker  
 
-📄 [Full Case Study](#) | 🔗 [Live Demo (upon request)](#)
+<p align="center">
+  <img src="img/prompt-engineer-dashboard.png" width="50%">
+</p>
+
+📄 [Full Case Study](https://github.com/zoubinho/profile/blob/ceb3b137e5fc048d7e81bcb01013f8918ba1da07/AI-Financial%20Apps%20Portfolio%20-%20Alexandre%20Alesi.pdf) | 🔗 [Live Demo (upon request)](#)
 
 ---
 
